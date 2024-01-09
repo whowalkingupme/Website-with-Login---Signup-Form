@@ -1,6 +1,6 @@
 # Create Website with Login & Registration Form in HTML CSS and JavaScript
 
-
+![Create-Website-with-Login-Registration-Form-in-HTML-CSS-and-JavaScript](https://github.com/whowalkingupme/Website-with-Login---Signup-Form/assets/46256884/678fab44-e270-487e-be5e-db5f9d69b075)
 
 If you’re new to web development, creating a website with login and registration forms is an excellent way to learn and practice basic skills like designing a navigation menu bar, creating a website homepage, and building login and registration forms.
 
